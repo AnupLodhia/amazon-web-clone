@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "../components/Subtotal.css";
 import CurrencyFormat from "react-currency-format";
 import { useStateValue } from "./StateProvider";
